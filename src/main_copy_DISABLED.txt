@@ -1,0 +1,9 @@
+// This file was renamed from 'main copy.cpp' to prevent linker conflicts.
+// See main_original_backup.cpp for the full original content.
+// 
+// The original main copy.cpp contained the full hardware initialization code
+// including display, touch, and PMU setup, but caused duplicate symbol errors
+// when compiled alongside the debug main.cpp
+//
+// ORIGINAL FILENAME: main copy.cpp
+// RENAMED TO: main_copy_DISABLED.txt
